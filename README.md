@@ -1,2 +1,7 @@
-# npm-numeralize-ru
-typing for numeralize-ru
+# Typed Dateformat
+
+The type definition for [`numeralize-ru`](https://github.com/anotherpit/numeralize-ru)
+
+## LICENSE
+
+MIT
